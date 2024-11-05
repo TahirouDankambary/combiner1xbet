@@ -1,16 +1,16 @@
 {
-  "coupons": [
+  "analyses": [
     {
-      "title": "Code Coupon du Jour",
-      "value": "5XFF1"
+      "title": "Analyse Football",
+      "prediction": "DFTRX"
     },
     {
-      "title": "Code Coupon Tennis",
-      "value": "D9HF1"
+      "title": "Analyse Tennis",
+      "prediction": "ZXVCB"
     },
     {
-      "title": "Code Coupon Mixte",
-      "value": "Z6GF1"
+      "title": "Analyse Multi-sports",
+      "prediction": "XCBGT"
     }
   ]
 }
